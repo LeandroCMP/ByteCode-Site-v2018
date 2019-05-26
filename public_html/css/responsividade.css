@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1000px){
+    #menu{
+        position: fixed;
+        font-size: 20px;
+	    width: 100%;
+    }
+}
+
+
